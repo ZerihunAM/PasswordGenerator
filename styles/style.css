@@ -6,7 +6,7 @@
      }
    
    body {
-     background-color: #64A6BD;
+     background-image:url('https://www.google.com/imgres?imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F5%2F5a%2FAnimated_Wallpaper_Windows_10_-_Wallpaper_Engine.gif%2F440px-Animated_Wallpaper_Windows_10_-_Wallpaper_Engine.gif&imgrefurl=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FWallpaper_(computing)&tbnid=TYt4l8cM7hAdAM&vet=12ahUKEwj748SMsu_2AhXXrHIEHftsBJsQMyg2egQIARBq..i&docid=BjaxPbQvKOwqyM&w=440&h=248&itg=1&q=Background%20image&ved=2ahUKEwj748SMsu_2AhXXrHIEHftsBJsQMyg2egQIARBq');
      justify-content: center;
      align-items: center;
      display: flex;
